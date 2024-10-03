@@ -1,0 +1,6 @@
+name : ecom
+services :
+  app :
+    image : teresamilo/ecom1:0.0.1
+    ports :
+      - 127.0.0.1:80:8000
